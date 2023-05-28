@@ -1,5 +1,5 @@
 <h1 align="center">
-👷‍♂️🏗️🔥<br>Meu Curriculo & Portfolio 
+👷🛠📋<br>Meu Curriculo & Portfolio 
 </h1>
 
 ## 🤘 Sobre
